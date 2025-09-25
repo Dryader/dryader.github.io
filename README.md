@@ -1,6 +1,6 @@
 # Portfolio
 
-A tiny React + Vite + Tailwind (v4) single-page site with a flashy dark theme (gradients + glassmorphism) showcasing projects, experience, and skills. No personal identifiers are displayed.
+A tiny React + Vite + Tailwind (v4) single-page site showcasing projects, experience, and skills.
 
 ## Quick start
 
